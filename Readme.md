@@ -7,6 +7,7 @@ yum install -y wget unzip
 
 ## FileMakerパッケージインストール
 ※rootユーザだとうまく行かない。
+
 一般ユーザでsudoでインストールすること。
 ```
 # sudo yum install filemaker_server-19.0.1-22.x86_64.rpm
