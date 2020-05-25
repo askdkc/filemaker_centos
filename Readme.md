@@ -18,6 +18,11 @@ yum install -y wget unzip
 fmsadmin resetpw -p 好きなパスワード -z 1234
 ```
 
+## 一度再起動
+```
+sudo shutdown -r now
+```
+
 ## Admin Consoleへアクセス
 ```
 http://サーバのIPアドレス(or ドメイン)/admin-console/
