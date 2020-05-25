@@ -1,5 +1,5 @@
 # FileMaker Server CentOS版のインストール手順
-
+![Uploading スクリーンショット 2020-05-25 9.23.48.png…]()
 ## 依存パッケージ
 ```
 yum install -y wget unzip
