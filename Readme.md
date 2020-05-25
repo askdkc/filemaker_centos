@@ -21,7 +21,7 @@ sudo shutdown -r now
 ```
 http://サーバのIPアドレス(or ドメイン)/admin-console/
 
-初期ログイン/Password
+初回ログイン/Password
 admin / admin
 
 コマンドでパスワード変更可能
