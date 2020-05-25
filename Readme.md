@@ -1,7 +1,5 @@
 # FileMaker Server CentOS版のインストール手順
-<img width="650" alt="screenshot" src="https://user-images.githubusercontent.com/7894265/82768378-9cf0c180-9e69-11ea-84c0-e8067bbe6a4f.png">
-
-## 依存パッケージ
+## 依存パッケージインストール
 ```
 yum install -y wget unzip
 ```
@@ -36,3 +34,4 @@ Password：リセットしたパスワード
 
 ```
 
+<img width="650" alt="screenshot" src="https://user-images.githubusercontent.com/7894265/82768378-9cf0c180-9e69-11ea-84c0-e8067bbe6a4f.png">
