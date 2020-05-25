@@ -9,7 +9,7 @@ yum install -y wget unzip
 
 一般ユーザでsudoでインストールすること。
 ```
-# sudo yum install filemaker_server-19.0.1-22.x86_64.rpm
+# sudo yum install -y filemaker_server-19.0.1-22.x86_64.rpm
 ```
 
 ## 一度再起動
