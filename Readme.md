@@ -20,7 +20,7 @@ fmsadmin resetpw -p 好きなパスワード -z 1234
 
 ## Admin Consoleへアクセス
 ```
-http://IP_ADDR/admin-console/
+http://サーバのIPアドレス(or ドメイン)/admin-console/
 
 ユーザ名：Admin
 Password：リセットしたパスワード
