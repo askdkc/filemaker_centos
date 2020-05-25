@@ -1,7 +1,7 @@
 # FileMaker Server CentOS版のインストール手順
 ## 依存パッケージインストール
 ```
-yum install -y wget unzip
+# yum install -y wget unzip
 ```
 
 ## FileMakerパッケージインストール
@@ -14,7 +14,7 @@ yum install -y wget unzip
 
 ## 一度再起動
 ```
-sudo shutdown -r now
+# sudo shutdown -r now
 ```
 
 ## Admin Consoleへアクセス
