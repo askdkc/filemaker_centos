@@ -12,14 +12,6 @@ yum install -y wget unzip
 # sudo yum install filemaker_server-19.0.1-22.x86_64.rpm
 ```
 
-## 初期パスワード設定
-デフォルトの初期パスワード： admin / admin
-
-変える時は下記コマンドで変更可能
-```
-fmsadmin resetpw -p 好きなパスワード -z 1234
-```
-
 ## 一度再起動
 ```
 sudo shutdown -r now
@@ -29,11 +21,10 @@ sudo shutdown -r now
 ```
 http://サーバのIPアドレス(or ドメイン)/admin-console/
 
-ユーザ名：admin
-Password：リセットしたパスワード
+初期 ログイン/Password： admin / admin
 
-リセットしていない時は admin / admin
-
+コマンドでパスワード変更可能
+fmsadmin resetpw -p 好きなパスワード -z 1234
 ```
 
 <img width="650" alt="screenshot" src="https://user-images.githubusercontent.com/7894265/82768378-9cf0c180-9e69-11ea-84c0-e8067bbe6a4f.png">
