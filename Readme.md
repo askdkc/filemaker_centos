@@ -1,4 +1,4 @@
-# FileMaker CentOSへのインストール
+# FileMaker Server CentOS版のインストール手順
 
 ## 依存パッケージ
 ```
