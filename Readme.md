@@ -29,8 +29,10 @@ sudo shutdown -r now
 ```
 http://サーバのIPアドレス(or ドメイン)/admin-console/
 
-ユーザ名：Admin
+ユーザ名：admin
 Password：リセットしたパスワード
+
+リセットしていない時は admin / admin
 
 ```
 
