@@ -14,6 +14,9 @@ yum install -y wget unzip
 ```
 
 ## 初期パスワード設定
+デフォルトの初期パスワード： admin / admin
+
+変える時は下記コマンドで変更可能
 ```
 fmsadmin resetpw -p 好きなパスワード -z 1234
 ```
