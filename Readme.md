@@ -21,7 +21,8 @@ sudo shutdown -r now
 ```
 http://サーバのIPアドレス(or ドメイン)/admin-console/
 
-初期 ログイン/Password： admin / admin
+初期ログイン/Password
+admin / admin
 
 コマンドでパスワード変更可能
 fmsadmin resetpw -p 好きなパスワード -z 1234
